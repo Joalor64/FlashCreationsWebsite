@@ -1,8 +1,9 @@
-body{
+body {
 	font-family: Helvetica, Arial, sans-serif;
 	text-align: center;
 }
-#bod{
+
+#bod {
 	-moz-column-count: 4;
 	-moz-column-gap: 10px;
 	-webkit-column-count: 4;
@@ -10,12 +11,14 @@ body{
 	column-count: 4;
 	column-gap: 10px;
 }
-img{
+
+img {
 	border: none;
-	vertical-align:middle;
+	vertical-align: middle;
 	margin-top: -2px;
 	margin-bottom: -2px;
 }
-h2{
-	margin:0.2em;
+
+h2 {
+	margin: 0.2em;
 }
